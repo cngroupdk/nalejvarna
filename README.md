@@ -27,3 +27,7 @@ Tomáš Řezáč
 Jan Černý + Jakub Kašpar
 
 - `prezentace` [https://github.com/cngroupdk/nalejvarna/tree/main/prezentace/CN-Group-DesignSprint.pdf](https://github.com/cngroupdk/nalejvarna/tree/main/prezentace/CN-Group-DesignSprint.pdf)
+
+Jan Černý + Jakub Kašpar
+
+- `prezentace` [Code_Reviews_Nalejvarna.pptx](https://github.com/cngroupdk/nalejvarna/tree/main/prezentace/Code_Reviews_Nalejvarna.pptx)
